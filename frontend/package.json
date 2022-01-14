@@ -11,7 +11,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.2",
     "@progress/kendo-charts-vue-wrapper": "^2020.3.1022",
-    "@progress/kendo-theme-default": "^4.25.2",
+    "@progress/kendo-theme-default": "^4.43.0",
     "@progress/kendo-ui": "^2020.3.1021",
     "axios": "^0.21.0",
     "buefy": "^0.9.3",
