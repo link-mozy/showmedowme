@@ -16,7 +16,7 @@
     "axios": "^0.21.0",
     "buefy": "^0.9.3",
     "chart.js": "^2.9.4",
-    "core-js": "^3.6.5",
+    "core-js": "^3.20.1",
     "hchs-vue-charts": "^1.2.8",
     "i": "^0.3.6",
     "register-service-worker": "^1.6.2",
